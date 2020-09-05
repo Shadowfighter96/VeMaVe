@@ -1,0 +1,4 @@
+# VeMaVe
+Verbrauchsmaterialverwaltung
+
+Software zur Verbrauchsmaterialverwaltung
